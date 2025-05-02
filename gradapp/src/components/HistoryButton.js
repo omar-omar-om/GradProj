@@ -15,7 +15,7 @@ const HistoryButton = () => {
     
     try {
       setLoading(true);
-      const response = await axios.get(`http://localhost:8001/api/user/prediction-files?user_id=${currentUser.uid}`);
+      const response = await axios.get(`http://localhost:8000/api/user/prediction-files?user_id=${currentUser.uid}`);
       setHistoryData(response.data || []);
     } catch (err) {
       console.error("Error loading history:", err);

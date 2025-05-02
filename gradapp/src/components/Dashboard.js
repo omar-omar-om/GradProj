@@ -8,7 +8,7 @@ import { db } from '../firebaseConfig'; // Import Firestore
 import { doc, getDoc, setDoc, updateDoc, onSnapshot, collection, getDocs, query, orderBy, addDoc } from 'firebase/firestore'; // Import Firestore functions
 import '../styles/Dashboard.css';
 
-const API_BASE_URL = 'http://localhost:8001/api';
+const API_BASE_URL = 'http://localhost:8000/api';
 
 const Dashboard = () => {
   const { user } = useAuth();

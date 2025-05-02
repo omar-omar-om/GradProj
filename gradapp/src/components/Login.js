@@ -103,6 +103,9 @@ const Login = () => {
         case 'auth/network-request-failed':
           setError("Network connection issue. Please check your internet and try again.");
           break;
+        case 'auth/invalid-credential':
+          setError("Invalid credentials. Please check your email and password.");
+          break;
         default:
           setError("Unable to sign in at this time. Please try again later.");
       }
