@@ -1,0 +1,13 @@
+{
+  "categorical_column1": {
+    "value1": 0,
+    "value2": 1,
+    "value3": 2
+  },
+  "categorical_column2": {
+    "optionA": 0,
+    "optionB": 1,
+    "optionC": 2
+  }
+  // Add more column mappings as needed
+} 
