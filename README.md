@@ -63,7 +63,7 @@
 
   <h2>📬 Contact</h2>
   <p>
-    Created by <strong>[Your Name]</strong><br>
+    Created by <strong>ME</strong><br>
     Graduate, Coventry University – School of Computing<br>
     📧 <a href="mailto:your.email@example.com">omrmoh1234@gmail.com</a><br>
     🌐 <a href="https://www.linkedin.com/in/yourprofile">https://www.linkedin.com/in/omar-ibrahim-4a0b382b9/</a>
