@@ -67,6 +67,8 @@
     📧 <a href="mailto:your.email@example.com">omrmoh1234@gmail.com</a><br>
     🌐 <a href="https://www.linkedin.com/in/yourprofile">https://www.linkedin.com/in/omar-ibrahim-4a0b382b9/</a>
   </p>
+  > ⚠️ Note: The Firebase API key shown here is a placeholder and **not the real production key**. Proper restrictions and environment variables are used in the deployed version.
+
 
 </body>
 </html>
