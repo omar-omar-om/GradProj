@@ -53,24 +53,28 @@
     <li>Import the output into Tableau for interactive analysis.</li>
   </ol>
 
+  <h2>📂 Colab Notebooks (ML & Preprocessing)</h2>
+  <p>
+    All Jupyter notebooks related to data preprocessing, encoding strategies, and model evaluation are available here:<br><br>
+    🔗 <a href="https://github.com/omar-omar-om/gradProject-notebooks" target="_blank">
+      GitHub – gradProject-notebooks
+    </a>
+  </p>
+
   <h2>🏁 Project Outcome</h2>
   <p>
     This project demonstrated how real-time machine learning can enhance malware detection using telemetry data.
     It balances high accuracy with efficient evaluation time and includes end-to-end deployment with visualization.
   </p>
 
-
   <h2>📬 Contact</h2>
   <p>
     Created by <strong>ME</strong><br>
     Graduate, Coventry University – School of Computing<br>
-    📧 <a href="mailto:your.email@example.com">omrmoh1234@gmail.com</a><br>
-    🌐 <a href="https://www.linkedin.com/in/yourprofile">https://www.linkedin.com/in/omar-ibrahim-4a0b382b9/</a>
+    📧 <a href="mailto:omrmoh1234@gmail.com">omrmoh1234@gmail.com</a><br>
+    🌐 <a href="https://www.linkedin.com/in/omar-ibrahim-4a0b382b9/">https://www.linkedin.com/in/omar-ibrahim-4a0b382b9/</a>
   </p>
   > ⚠️ Note: The Firebase API key shown here is a placeholder and **not the real production key**. Proper restrictions and environment variables are used in the deployed version.
 
-
 </body>
 </html>
-
-
